@@ -19,7 +19,7 @@
 .button.double {
   grid-column: span 2;
 }
-.button.tripple {
+.button.triple {
   grid-column: span 3;
 }
 
